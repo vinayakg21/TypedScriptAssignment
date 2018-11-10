@@ -1,0 +1,4 @@
+class BasicPhone extends Mobile{
+
+
+}
